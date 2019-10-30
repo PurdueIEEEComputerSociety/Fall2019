@@ -7,8 +7,8 @@ This program uses Python 3.7. Also uses modules such as numpy for math functions
 
 ## Machine Learning:
 Before we begin talking about the specifics of this program, it would probably be smart to brush up on some general machine learning theory, and some basics that happen in most algorithms. Some of the theory can be explained much better if you watch a couple quick videos rather than me trying to explain it in this README. I would recommend the following videos by 3 Blue 1 Brown on YouTube:
-[Nueral Networks] (https://youtu.be/aircAruvnKk)
-[How Nueral Networks Learn] https://youtu.be/IHZwWFHWa-w 
+- [Nueral Networks] (https://youtu.be/aircAruvnKk)
+- [How Nueral Networks Learn] https://youtu.be/IHZwWFHWa-w 
 I think he does a good job of explaining the topics for people with little experience and providing good visuals to help grasp what is actually happening in most of these algorithms. If nothing else, it can at least help you get familiar with some of the vernacular or verbiage used in machine learning. He has videos on many other interesting topics too outside of the scope of this project, but I’d definitely recommend checking out some more of his channel too. 
 
 ## Project:
