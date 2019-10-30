@@ -9,6 +9,7 @@ This program uses Python 3.7. Also uses modules such as numpy for math functions
 Before we begin talking about the specifics of this program, it would probably be smart to brush up on some general machine learning theory, and some basics that happen in most algorithms. Some of the theory can be explained much better if you watch a couple quick videos rather than me trying to explain it in this README. I would recommend the following videos by 3 Blue 1 Brown on YouTube:
 - [Nueral Networks] (https://youtu.be/aircAruvnKk)
 - [How Nueral Networks Learn] https://youtu.be/IHZwWFHWa-w 
+
 I think he does a good job of explaining the topics for people with little experience and providing good visuals to help grasp what is actually happening in most of these algorithms. If nothing else, it can at least help you get familiar with some of the vernacular or verbiage used in machine learning. He has videos on many other interesting topics too outside of the scope of this project, but I’d definitely recommend checking out some more of his channel too. 
 
 ## Project:
@@ -19,6 +20,7 @@ The goal of this project was to have teams create their own machine learning alg
 - The ball
 - The reward
 - A Done variable
+
 The RGB array of the screen is pretty self-explanatory. The paddles and the ball are given so players can use their positions for potential inputs. The reward is a variable for if any points were scored or not, -1 if the left paddle scores, and 1 if the right paddle scores. The Done variable exists as a Boolean to determine if the game is still happening or not. Using these parameters, each function should return a value between 0 and 1 which will determine the up or down action of the paddle. Between 0 and 0.5 is d down and between 0.5 and 1 is up. Using this your algorithm should make a decision to move up or down each time the game runs.
 
 ## Writing your own Network:
